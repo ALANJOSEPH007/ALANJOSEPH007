@@ -41,11 +41,11 @@ I'm a software developer and aspiring data analyst with a background in MCA. Cur
 ---
 
 ### 📫 Let's Connect:
-- **Email:** youremail@example.com
+- **Email:** alanjoseph1783@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+
 
 ---
 
 ### ✨ Fun Fact:
-- I love solving puzzles and I’m a huge chess enthusiast!♟️
+I'm an avid sports fan! I love watching and playing both **football** and **cricket**! ⚽🏏
