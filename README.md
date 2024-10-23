@@ -1,4 +1,5 @@
-![Technology Image](https://your-image-url-here.com)
+![Technology Image](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/tech-image.jpg)
+
 ### Hi there 👋, I'm ALAN JOSEPH!
 
 I'm a software developer and aspiring data analyst with a background in MCA. Currently pursuing **Data Analytics** at the **National College of Ireland (NCI)**, I'm passionate about using data to drive insights and solve real-world challenges.
