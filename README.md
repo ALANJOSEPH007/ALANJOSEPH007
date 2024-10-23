@@ -1,4 +1,4 @@
-![Technology Image](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/tech-image.jpg)
+
 
 ### Hi there 👋, I'm ALAN JOSEPH!
 
