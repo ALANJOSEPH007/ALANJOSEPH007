@@ -1,9 +1,10 @@
 
 
 ### Hi there 👋, I'm ALAN JOSEPH!
+Software Developer | Data Analyst
 
-I'm a software developer and aspiring data analyst with a background in MCA. Currently pursuing **Data Analytics** at the **National College of Ireland (NCI)**, I'm passionate about using data to drive insights and solve real-world challenges.
-
+MSc in Data Analytics, National College of Ireland (Completed)
+Experienced in software development with a growing focus on data-driven solutions and analytical problem-solving. Passionate about building efficient systems and extracting insights from data to support informed decision-making.
 ---
 
 ### 🚀 A bit about me:
