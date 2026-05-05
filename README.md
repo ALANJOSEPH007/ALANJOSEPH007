@@ -21,12 +21,11 @@ Experienced in software development with a growing focus on data-driven solution
 ###🕵️ Crime Trend Forecasting and Classification
 
 🔗 https://github.com/ALANJOSEPH007/CRIME-TREND-FORECASTING-AND-CLASSIFICATION
+- Developed a machine learning system to analyze and classify crime trends using historical data 
+- Performed data preprocessing, cleaning, and feature engineering for model training
+- Built classification models to identify crime patterns and trends
+- Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
--Developed a machine learning system to analyze and classify crime trends using historical data
--Performed data preprocessing, cleaning, and feature engineering for model training
--Built classification models to identify crime patterns and trends
--Evaluated model performance using standard ML metrics
--Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
 ### 🏥 Online Hospital System  
 🔗 https://github.com/ALANJOSEPH007/MY-CARE-HOSPITAL  
@@ -42,11 +41,13 @@ Experienced in software development with a growing focus on data-driven solution
 
 🔗 https://github.com/ALANJOSEPH007/MULTI-SPORT-INJURY-PREDICTION
 
--Built a machine learning model to predict injury risk in sports players
--Performed data preprocessing, cleaning, and transformation using Python
--Conducted exploratory data analysis to identify injury-related patterns
--Created visualizations to support insights and decision-making
--Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Built a machine learning model to predict injury risk in sports players
+- Performed data preprocessing, cleaning, and transformation using Pythonon  
+- Conducted exploratory data analysis to identify injury-related patterns
+- Designed and managed MySQL database for storing hospital records
+- Created visualizations to support insights and decision-making
+- Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 ---
 
 ### 🌟 GitHub Stats:
