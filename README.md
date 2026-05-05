@@ -18,20 +18,22 @@ Experienced in software development with a growing focus on data-driven solution
 
 ### 🏆 Projects:
 
-#### 1. [Sentiment Analysis of Twitter Data](https://github.com/yourusername/twitter-sentiment-analysis)
+#### 1. [CRIME-TREND-FORECASTING-AND-CLASSIFICATION]([https://github.com/yourusername/twitter-sentiment-analysis](https://github.com/ALANJOSEPH007/CRIME-TREND-FORECASTING-AND-CLASSIFICATION])
 - A **Machine Learning** project that analyzes sentiment from real-time Twitter data using **Natural Language Processing (NLP)** techniques.
 - Built with: **Python**, **Pandas**, **scikit-learn**, **Tweepy**, **TextBlob**.
 - Key skills: Data collection, text preprocessing, sentiment classification, and model evaluation.
 
-#### 2. [Retail Sales Dashboard](https://github.com/yourusername/retail-sales-dashboard)
-- An interactive **Data Visualization** project that displays retail sales trends and KPIs using **Power BI** and **Python**.
-- Built with: **Power BI**, **Python**, **Matplotlib**, **SQL**.
-- Key skills: Data cleaning, data aggregation, and visual storytelling.
+#### 2. [Online Hospital Website][(https://github.com/yourusername/retail-sales-dashboard](https://github.com/ALANJOSEPH007/MY-CARE-HOSPITAL-)]
+-Developed a full-stack hospital portal for managing patient and doctor interactions 
+• Designed and managed MySQL databases for patient records and appointments 
+• Implemented real-time chat functionality 
+• Built backend logic using Django (Python)
 
-#### 3. [Weather Forecast App](https://github.com/yourusername/weather-forecast-app)
-- A weather forecast web application that uses **OpenWeather API** to fetch live weather data for any location.
-- Built with: **HTML**, **CSS**, **JavaScript**, **Node.js**.
-- Key skills: API integration, web development, and responsive design.
+#### 3. [MULTI SPORT INJURY PREDICTION]((https://github.com/ALANJOSEPH007/MULTI-SPORT-INJURY-PREDICTION))
+-  Developed a machine learning model to predict player injury risk using historical data 
+• Processed and analysed datasets using Python (Pandas, NumPy) 
+• Identified patterns and key factors contributing to injuries 
+• Created visualisations to support insights and decision-making
 
 ---
 
