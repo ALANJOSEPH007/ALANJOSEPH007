@@ -18,23 +18,35 @@ Experienced in software development with a growing focus on data-driven solution
 
 ### 🏆 Projects:
 
-#### 1. [CRIME-TREND-FORECASTING-AND-CLASSIFICATION]([https://github.com/yourusername/twitter-sentiment-analysis](https://github.com/ALANJOSEPH007/CRIME-TREND-FORECASTING-AND-CLASSIFICATION])
-- A **Machine Learning** project that analyzes sentiment from real-time Twitter data using **Natural Language Processing (NLP)** techniques.
-- Built with: **Python**, **Pandas**, **scikit-learn**, **Tweepy**, **TextBlob**.
-- Key skills: Data collection, text preprocessing, sentiment classification, and model evaluation.
+###🕵️ Crime Trend Forecasting and Classification
 
-#### 2. [Online Hospital Website][(https://github.com/yourusername/retail-sales-dashboard](https://github.com/ALANJOSEPH007/MY-CARE-HOSPITAL-)]
--Developed a full-stack hospital portal for managing patient and doctor interactions 
-• Designed and managed MySQL databases for patient records and appointments 
-• Implemented real-time chat functionality 
-• Built backend logic using Django (Python)
+🔗 https://github.com/ALANJOSEPH007/CRIME-TREND-FORECASTING-AND-CLASSIFICATION
 
-#### 3. [MULTI SPORT INJURY PREDICTION]((https://github.com/ALANJOSEPH007/MULTI-SPORT-INJURY-PREDICTION))
--  Developed a machine learning model to predict player injury risk using historical data 
-• Processed and analysed datasets using Python (Pandas, NumPy) 
-• Identified patterns and key factors contributing to injuries 
-• Created visualisations to support insights and decision-making
+-Developed a machine learning system to analyze and classify crime trends using historical data
+-Performed data preprocessing, cleaning, and feature engineering for model training
+-Built classification models to identify crime patterns and trends
+-Evaluated model performance using standard ML metrics
+-Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
+### 🏥 Online Hospital System  
+🔗 https://github.com/ALANJOSEPH007/MY-CARE-HOSPITAL  
+
+- Developed a full-stack hospital management system for patient and doctor interactions  
+- Built REST APIs using Django for backend communication  
+- Integrated real-time chat functionality between users  
+- Designed and managed MySQL database for storing hospital records  
+- Tech Stack: Django, Python, MySQL, HTML, CSS, JavaScript
+
+  
+###🏃 Multi-Sport Injury Prediction System
+
+🔗 https://github.com/ALANJOSEPH007/MULTI-SPORT-INJURY-PREDICTION
+
+-Built a machine learning model to predict injury risk in sports players
+-Performed data preprocessing, cleaning, and transformation using Python
+-Conducted exploratory data analysis to identify injury-related patterns
+-Created visualizations to support insights and decision-making
+-Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 ---
 
 ### 🌟 GitHub Stats:
